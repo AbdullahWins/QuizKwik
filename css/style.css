@@ -1,0 +1,17 @@
+.body {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  background-image: url("/assets/img/topbg.png");
+}
+
+#search {
+  background: rgba(23, 106, 47, 1);
+  width: 289px;
+}
+
+.btn-registration {
+  background: rgba(32, 133, 60, 1);
+}
